@@ -1,3 +1,4 @@
+''' Маленький скрипт проверки треугольника '''
 while True:
     try:
         lst_sides = input('Please, enter 3 sides of any triangle (separated by space): '). split()
